@@ -1,0 +1,13 @@
+THE-LAST-SIGNAL/
+├─ index.html
+├─ style.css
+├─ README.md
+├─ package.json
+└─ src/
+   ├─ main.js
+   ├─ player.js
+   ├─ world.js
+   ├─ monster.js
+   ├─ interactions.js
+   ├─ audio.js
+   └─ ui.js
