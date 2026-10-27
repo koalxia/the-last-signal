@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+  <title>THE LAST SIGNAL</title>
+  <link rel="stylesheet" href="style.css" />
+  <meta name="theme-color" content="#070b14" />
+</head>
+<body>
+  <div id="app-root">
+    <!-- UI is injected by src/ui.js -->
+  </div>
+
+  <div id="game-overlay" aria-hidden="true">
+    <div id="crosshair"></div>
+    <div id="interaction-hint"></div>
+  </div>
+
+  <!-- Main module -->
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>
